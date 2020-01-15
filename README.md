@@ -1,4 +1,3 @@
-Tugas 5
 nomor = 0 data = {} while (True): pilihan = input("[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:")
 
 if pilihan == 't':
